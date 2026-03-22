@@ -14,4 +14,3 @@ print("Undo:", undo)
 print("Remaining:", stack)
 
 
-# Queue FIFO first in first out 
